@@ -1,5 +1,5 @@
 Parte del Machine Learning para, a partir de grandes volúmenes de datos y tras numerosas capas de procesamiento con algoritmos, aprenda a realizar tareas de forma semejante
-a la de los seres humanos. Los algoritmos de Deep Learning se aplican a redes neuronales compuestas por un gran número de capas.
+a la de los seres humanos. Los algoritmos de Deep Learning se aplican a [[Redes Neuronales]] compuestas por un gran número de capas.
 
 ## Características
 

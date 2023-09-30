@@ -2,7 +2,6 @@
 
 Forma en la que los humanos nos comunicamos entre nosotros: Texto, habla, etc.
 
-
 ## Lingüística
 
 Estudio científico del lenguaje, incluyendo gramática, semántica y fonética.
@@ -14,8 +13,9 @@ Estudio científico del lenguaje, incluyendo gramática, semántica y fonética.
 
 · Actualmente, el NLP está enfocado principalmente en la utilización de redes neuronales para realizar inferencias en tareas específicas y para desarrollar sistemas sólidos.
 
-Yoan Goldberg:
->El procesamiento del lenguaje natural (PLN) es un término
+Yoav Goldberg:
+
+> El procesamiento del lenguaje natural (PLN) es un término
 >colectivo que se refiere al procesamiento computacional automático
 >de los lenguajes humanos. Esto incluye algoritmos que toman
 >texto producido por humanos como entrada y algoritmos

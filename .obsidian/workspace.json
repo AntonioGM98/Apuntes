@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5bd4260bb7058868",
+            "id": "9ea05e73aeb15353",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction/Deep Learning.md",
+                "file": "Redes Neuronales/Descenso por gradiente.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction/Deep Learning.md",
+                "file": "Redes Neuronales/Descenso por gradiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction/Deep Learning.md",
+                "file": "Redes Neuronales/Descenso por gradiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction/Deep Learning.md"
+                "file": "Redes Neuronales/Descenso por gradiente.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,22 +145,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bd4260bb7058868",
+  "active": "9ea05e73aeb15353",
   "lastOpenFiles": [
+    "Redes Neuronales/Neurona.md",
+    "Redes Neuronales/Redes Neuronales.md",
+    "Redes Neuronales/Descenso por gradiente.md",
+    "Redes Neuronales/Topologías/Recurrent NN.md",
+    "Images/Recurrent NN img.png",
+    "Redes Neuronales/Topologías/Feed Forward.md",
+    "Images/Feed Fordward NN img.png",
+    "Redes Neuronales/Topologías",
+    "Pasted image 20230927171850.png.md",
+    "Images/Descenso por gradiente img.png",
+    "Redes Neuronales/Funciones de activacion/ReLu.md",
+    "Redes Neuronales/Funciones de activacion/Softmax.md",
+    "Redes Neuronales/Funciones de activacion/Sigmoidal.md",
+    "Images/Convergencia img.png",
+    "Images/Optimos img.png",
+    "Pasted image 20230927153246.png",
+    "Redes Neuronales/Testing.md",
+    "Pasted image 20230926160538.png",
+    "Untitled",
+    "Images/Neurona img.png",
+    "Redes Neuronales/Capas/Output layer.md",
+    "Redes Neuronales/Capas/Input layer.md",
+    "Redes Neuronales/Capas/Hidden layer.md",
     "Introduction/Natural Language Processing (NLP).md",
     "Introduction/Deep Learning.md",
+    "Cheat Sheets/ML Math.pdf",
+    "Cheat Sheets/Matplotlib.pdf",
+    "Cheat Sheets/ML Types.pdf",
     "README.md",
+    "Redes Neuronales/Capas",
+    "Redes Neuronales/Funciones de activacion",
+    "Fundamentos de Deep Learning/Redes Neuronales.md",
+    "Redes Neuronales",
+    "Fundamentos de Deep Learning",
+    "Cheat Sheets/Python.pdf",
     "Images/Pasted image 20230922191913.png",
     "Images/Pasted image 20230922191733.png",
     "Untitled.canvas",
     "Cheat Sheets/Machine Learning.md",
     "Pasted image 20230922191900.png.md",
-    "Pasted image 20230922192004.png",
-    "Pasted image 20230922191900.png",
-    "Images",
-    "Pasted image 20230922191727.png",
-    "Cheat Sheets",
-    "Natural Language Processing/Untitled.canvas",
-    "Introduction"
+    "Natural Language Processing/Untitled.canvas"
   ]
 }
