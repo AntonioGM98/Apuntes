@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d9931ee3e0e1ad4",
+        "id": "c9007b2036e0d67e",
         "type": "tabs",
         "children": [
           {
-            "id": "9ea05e73aeb15353",
+            "id": "61532e518efe4b0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes Neuronales/Descenso por gradiente.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes Neuronales/Descenso por gradiente.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes Neuronales/Descenso por gradiente.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes Neuronales/Descenso por gradiente.md"
+                "file": "README.md"
               }
             }
           }
@@ -145,11 +145,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ea05e73aeb15353",
+  "active": "61532e518efe4b0b",
   "lastOpenFiles": [
-    "Redes Neuronales/Neurona.md",
+    "Clasificacion de textos/Procesamiento y limpieza de texto.md",
+    "Codificacion de palabras/Embedding.md",
+    "Codificacion de palabras/One Hot Encoding.md",
+    "Clasificacion de textos/Clasificación de textos.md",
+    "Clasificacion de textos/Lematizacion.md",
+    "Clasificacion de textos",
+    "Images/Ejemplo NLTK img.png",
+    "Clasificacion de textos/Stemming.md",
+    "Images/embedding img.png",
     "Redes Neuronales/Redes Neuronales.md",
+    "Codificacion de palabras/Cómo leen las máquinas.md",
+    "Codificacion de palabras/Tokenización.md",
+    "Images/Problema tokenizacion img.png",
+    "Images/Tokenizacion img.png",
     "Redes Neuronales/Descenso por gradiente.md",
+    "Codificacion de palabras",
+    "Redes Neuronales/Neurona.md",
     "Redes Neuronales/Topologías/Recurrent NN.md",
     "Images/Recurrent NN img.png",
     "Redes Neuronales/Topologías/Feed Forward.md",
@@ -164,9 +178,6 @@
     "Images/Optimos img.png",
     "Pasted image 20230927153246.png",
     "Redes Neuronales/Testing.md",
-    "Pasted image 20230926160538.png",
-    "Untitled",
-    "Images/Neurona img.png",
     "Redes Neuronales/Capas/Output layer.md",
     "Redes Neuronales/Capas/Input layer.md",
     "Redes Neuronales/Capas/Hidden layer.md",
@@ -181,12 +192,8 @@
     "Fundamentos de Deep Learning/Redes Neuronales.md",
     "Redes Neuronales",
     "Fundamentos de Deep Learning",
-    "Cheat Sheets/Python.pdf",
-    "Images/Pasted image 20230922191913.png",
-    "Images/Pasted image 20230922191733.png",
     "Untitled.canvas",
     "Cheat Sheets/Machine Learning.md",
-    "Pasted image 20230922191900.png.md",
     "Natural Language Processing/Untitled.canvas"
   ]
 }
