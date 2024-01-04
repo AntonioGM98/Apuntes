@@ -11,11 +11,9 @@
             "id": "61532e518efe4b0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Proyectos prácticos/NLP/Procesamiento y limpieza de texto/model.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Proyectos prácticos/NLP/Procesamiento y limpieza de texto/model.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Proyectos prácticos/NLP/Procesamiento y limpieza de texto/model.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Proyectos prácticos/NLP/Procesamiento y limpieza de texto/model.png"
               }
             }
           }
@@ -147,6 +145,7 @@
   },
   "active": "61532e518efe4b0b",
   "lastOpenFiles": [
+    "README.md",
     "Clasificacion de textos/Procesamiento y limpieza de texto.md",
     "Codificacion de palabras/Embedding.md",
     "Codificacion de palabras/One Hot Encoding.md",
@@ -186,7 +185,6 @@
     "Cheat Sheets/ML Math.pdf",
     "Cheat Sheets/Matplotlib.pdf",
     "Cheat Sheets/ML Types.pdf",
-    "README.md",
     "Redes Neuronales/Capas",
     "Redes Neuronales/Funciones de activacion",
     "Fundamentos de Deep Learning/Redes Neuronales.md",
